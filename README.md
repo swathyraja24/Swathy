@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -83,7 +83,7 @@
 
     <section id="education">
         <h2>Education</h2>
-        <p>Anna University - Electrical & Electronics Engineering</p>
+        <p>Madras University - Electrical & Electronics Engineering</p>
     </section>
 
     <section id="skills">
